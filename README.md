@@ -1,4 +1,4 @@
-# portfólio
+# Portfólio pessoal
 O meu Portfólio Pessoal é uma plataforma online que apresenta meus projetos, habilidades e experiências de maneira organizada e profissional. É uma oportunidade para que eu possa compartilhar meu trabalho e aumentar minha presença online como desenvolvedor.
 
 Meu portfólio é desenvolvido em HTML, CSS e JavaScript, e conta com uma série de projetos que ilustram minhas habilidades e conhecimentos em diferentes tecnologias. A plataforma foi criada com muito cuidado para proporcionar uma experiência agradável aos visitantes, com um design responsivo e moderno.
